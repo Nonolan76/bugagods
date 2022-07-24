@@ -168,7 +168,7 @@ header .logo img {
 .token-line .progress-line {
     position: absolute;
     inset: 0px;
-    background: linear-gradient(98.83deg,#ff7c01 7.13%,#ff5301 48.99%,#a819eb 84.14%);
+    background: linear-gradient(90deg,#fdcb6e 0,#d63031 35%,#e84393 75%,#6c5ce7);
 
     height: 10px;
     border-radius: 6px;
@@ -331,12 +331,12 @@ header .logo img {
     letter-spacing: 0.5px;
     margin-right: 0px;
     justify-content: center !important;
-    background: linear-gradient(98.83deg,#ff7c01 7.13%,#ff5301 48.99%,#a819eb 84.14%);
+    background: linear-gradient(90deg,#fdcb6e 0,#d63031 35%,#e84393 75%,#6c5ce7);
 
 }
 
 #root button:hover {
-    background: linear-gradient(98.83deg,#ff7c01 7.13%,#ff5301 48.99%,#a819eb 84.14%);
+    background: linear-gradient(90deg,#fdcb6e 0,#d63031 35%,#e84393 75%,#6c5ce7);
 
 }
 
