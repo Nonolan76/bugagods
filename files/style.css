@@ -7,8 +7,8 @@
 body {
     overflow-x: hidden;
     font-family: Poppins, sans-serif;
-    background: url("bg.png") 0% 0% / cover no-repeat;
-    color: rgb(0, 0, 0);
+    background: #ecede7;
+    color: #ecede7;
     display: flex;
     justify-content: center;
     letter-spacing: 0.6px;
@@ -141,13 +141,13 @@ header .logo img {
 .token {
     width: 85%;
     margin-top: 25px;
-    color: #fff
+    color: #3c3c3c
 }
 
 .token-title {
     margin-top: 24px;
     margin-bottom: 8px;
-    color: #fff
+    color: #3c3c3c
     font-weight: 500;
     font-size: 12px;
 }
@@ -168,7 +168,7 @@ header .logo img {
 .token-line .progress-line {
     position: absolute;
     inset: 0px;
-    background: linear-gradient( 87.22deg, #1978f3 5.62%, #00b4ff 50.96% );
+    background: linear-gradient(98.83deg,#ff7c01 7.13%,#ff5301 48.99%,#a819eb 84.14%);
 
     height: 10px;
     border-radius: 6px;
@@ -211,7 +211,7 @@ header .logo img {
     background: rgba(151, 151, 151, 0.25);
     font-size: 26px;
     font-weight: 400;
-    color: #fff;
+    color: #3c3c3c;
     padding: 10px 15px;
     border-radius: 6px;
 }
@@ -230,7 +230,7 @@ header .logo img {
     text-align: center;
     font-size: 20px;
     font-weight: 400;
-    color: #fff;
+    color: #3c3c3c;
     background: rgba(151, 151, 151, 0.25);
     border-radius: 6px;
     margin-right: 25px;
@@ -331,12 +331,12 @@ header .logo img {
     letter-spacing: 0.5px;
     margin-right: 0px;
     justify-content: center !important;
-    background: linear-gradient( 87.22deg, #1978f3 5.62%, #00b4ff 50.96% );
+    background: linear-gradient(98.83deg,#ff7c01 7.13%,#ff5301 48.99%,#a819eb 84.14%);
 
 }
 
 #root button:hover {
-    background: linear-gradient( 87.22deg, #00b4ff 5.62%, #1978f3 50.96% );
+    background: linear-gradient(98.83deg,#ff7c01 7.13%,#ff5301 48.99%,#a819eb 84.14%);
 
 }
 
