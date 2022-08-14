@@ -1,4 +1,8 @@
 ﻿@import url("../css2.html");
+
+@font-face { font-family: BROmega; src: url('BROmega.ttf'); } 
+
+
 * {
     box-sizing: border-box;
     scroll-behavior: smooth;
@@ -6,7 +10,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: Poppins, sans-serif;
+    font-family: BROmega, sans-serif;
     background: #ffffff;
     color: #ecede7;
     display: flex;
