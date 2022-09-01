@@ -33,7 +33,7 @@ header {
     width: 80%;
     position: fixed;
     top: 20px;
-    padding: 0px 50px;
+    padding: 0px 0px;
     display: flex;
     align-items: center;
     justify-content: space-between;
